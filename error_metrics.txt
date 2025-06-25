@@ -1,0 +1,266 @@
+
+--- Error metrics for subject 1 with model 10x10---
+mean error: 5.985759258270264
+max error: 33.892616271972656
+min error: 0.22051170468330383
+----------------------------------------
+
+--- Error metrics for subject 1 with model 10x10 and stride 2---
+mean error: 9.15947437286377
+max error: 56.079471588134766
+min error: 0.1818494349718094
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model 10x10 and stride 2---
+mean error: 10.943193435668945
+max error: 31.489320755004883
+min error: 0.12975868582725525
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model 10x10 and stride 2---
+mean error: 58.249664306640625
+max error: 92.41861724853516
+min error: 5.358997344970703
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 16 and stride 3---
+mean error: 58.249664306640625
+max error: 92.41861724853516
+min error: 5.358997344970703
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 12 and stride 1---
+mean error: 46.911964416503906
+max error: 88.59618377685547
+min error: 1.8195929527282715
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 12 and stride 2---
+mean error: 62.23676300048828
+max error: 103.94952392578125
+min error: 7.137485504150391
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 12 and stride 2---
+mean error: 62.23676300048828
+max error: 103.94952392578125
+min error: 7.137485504150391
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 12 and stride 2---
+mean error: 62.23676300048828
+max error: 103.94952392578125
+min error: 7.137485504150391
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 1---
+mean error: 48.05371856689453
+max error: 84.93443298339844
+min error: 0.7494969964027405
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 1---
+mean error: 23.068782806396484
+max error: 65.68112182617188
+min error: 0.24349723756313324
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 1---
+mean error: 22.168088912963867
+max error: 64.96757507324219
+min error: 2.0084245204925537
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 1---
+mean error: 104.60655212402344
+max error: 480.7681579589844
+min error: 27.077295303344727
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 1---
+mean error: 101.6029052734375
+max error: 495.3675537109375
+min error: 42.54401397705078
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2---
+mean error: 31.348569869995117
+max error: 125.22042083740234
+min error: 0.2663169205188751
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2---
+mean error: 87.55643463134766
+max error: 452.6302795410156
+min error: 7.23878812789917
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 1---
+mean error: 8.721295356750488
+max error: 49.050872802734375
+min error: 0.46999987959861755
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 1---
+mean error: 115.6646728515625
+max error: 486.6754455566406
+min error: 34.67593002319336
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2---
+mean error: 27.776473999023438
+max error: 100.27671813964844
+min error: 1.7643852233886719
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2---
+mean error: 21.175119400024414
+max error: 147.5824432373047
+min error: 0.528209924697876
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 3---
+mean error: 15.238456726074219
+max error: 100.14820861816406
+min error: 1.0034465789794922
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2---
+mean error: 18.32514190673828
+max error: 69.61836242675781
+min error: 0.12023976445198059
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2 new_res ---
+mean error: 19.690670013427734
+max error: 66.78124237060547
+min error: 0.6601434350013733
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2 new_res ---
+mean error: 40.889427185058594
+max error: 132.78111267089844
+min error: 0.4653855860233307
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2 ---
+mean error: 18.272031784057617
+max error: 54.03934097290039
+min error: 1.2591692209243774
+--------------------------------------------------
+
+--- Error metrics for subject 1 with model: filter size 10 and stride 2 ---
+mean error: 29.328590393066406
+max error: 126.9102783203125
+min error: 0.5927838683128357
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 31.830848693847656
+max error: 126.9102783203125
+min error: 0.22160935401916504
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 175.17649841308594
+max error: 233.75990295410156
+min error: 119.59627532958984
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 175.17649841308594
+std error: 22.910280227661133
+max error: 233.75990295410156
+min error: 119.59627532958984
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 175.17649841308594
+std error: 22.910280227661133
+max error: 233.75990295410156
+min error: 119.59627532958984
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 404.4261779785156
+std error: 21.441740036010742
+max error: 459.5182189941406
+min error: 351.60205078125
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 404.4261779785156
+std error: 21.441740036010742
+max error: 459.5182189941406
+min error: 351.60205078125
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 110.94532012939453
+std error: 34.19636154174805
+max error: 215.5273895263672
+min error: 25.123445510864258
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 87.77335357666016
+std error: 29.16391372680664
+max error: 155.76840209960938
+min error: 20.56505584716797
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 320.859375
+std error: 49.44336700439453
+max error: 455.5401611328125
+min error: 233.07723999023438
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 27.34372901916504
+std error: 17.62482261657715
+max error: 78.71451568603516
+min error: 0.6793122887611389
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 87.77335357666016
+std error: 29.16391372680664
+max error: 155.76840209960938
+min error: 20.56505584716797
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 384.1392517089844
+std error: 27.33836555480957
+max error: 446.7572021484375
+min error: 214.1793670654297
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 110.94532012939453
+std error: 34.19636154174805
+max error: 215.5273895263672
+min error: 25.123445510864258
+--------------------------------------------------
+
+--- Error metrics for CNN model: filter size 10 and stride 2 ---
+mean error: 110.94532012939453
+std error: 34.19636154174805
+max error: 215.5273895263672
+min error: 25.123445510864258
+--------------------------------------------------
+
+--- Error metrics for RawNet model ---
+mean error: 1181.567626953125
+std error: 364.19122314453125
+max error: 2295.36669921875
+min error: 267.564697265625
+--------------------------------------------------
+
+--- Error metrics for RawNet model ---
+mean error: 10.417400360107422
+std error: 3.210926055908203
+max error: 20.237314224243164
+min error: 2.359009027481079
+--------------------------------------------------
