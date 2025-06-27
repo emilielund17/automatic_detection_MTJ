@@ -1,5 +1,22 @@
 ### CNN-Based Coordinate Regression from Grayscale Images
 
+## Preprocessing.py
+
+This script loads and preprocesses grayscale video data from `.avi` files and extracts corresponding object tracking data from `.trk` files. It combines and saves the processed frames and ground truth coordinates as NumPy arrays for use in downstream tasks like model training or visualization.
+
+#### Features
+
+* **GUI-based file selection** for multiple `.avi` video files
+* **Converts videos to grayscale and normalizes pixel values**
+* **Optional frame filtering (commented out)**
+* **Crops and horizontally flips each frame for consistency**
+* **Parses `.trk` XML files to extract ground truth coordinates** using `get_track()` from `MovieFunc.py`
+* **Aligns frames and ground truth by frame index**
+* **Saves combined data as NumPy arrays**:
+
+  * `all_data_plot.npy` (video frames)
+  * `all_ground_truth_plot.npy` (coordinates)
+
 ## model_script.py 
 This implements a Convolutional Neural Network (CNN) in TensorFlow/Keras for predicting normalized 2D coordinates from grayscale image data.
 
